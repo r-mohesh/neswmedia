@@ -4,8 +4,7 @@ import PropTypes from 'prop-types'
 export class NavBar extends Component {
     static propTypes = {
 
-    }
-
+// hello this is change for git pull purpose
     render() {
         return (
             <div>
